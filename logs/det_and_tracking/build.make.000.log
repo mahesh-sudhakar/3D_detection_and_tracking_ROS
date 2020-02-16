@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target boundingboxpoints[0m
+[35m[1mScanning dependencies of target kalmanfilter[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/boundingboxpoints.dir/src/get_points.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/kalmanfilter.dir/src/kalmanfilter.cpp.o[0m
+[ 75%] [32m[1mLinking CXX executable /home/ruthz/detection_ws/devel/.private/det_and_tracking/lib/det_and_tracking/boundingboxpoints[0m
+[ 75%] Built target boundingboxpoints
+[100%] [32m[1mLinking CXX executable /home/ruthz/detection_ws/devel/.private/det_and_tracking/lib/det_and_tracking/kalmanfilter[0m
+[100%] Built target kalmanfilter

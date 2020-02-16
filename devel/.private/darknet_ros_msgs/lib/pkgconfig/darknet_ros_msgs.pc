@@ -1,0 +1,8 @@
+prefix=/home/ruthz/detection_ws/devel/.private/darknet_ros_msgs
+
+Name: darknet_ros_msgs
+Description: Description of darknet_ros_msgs
+Version: 1.1.4
+Cflags: -I/home/ruthz/detection_ws/devel/.private/darknet_ros_msgs/include
+Libs: -L/home/ruthz/detection_ws/devel/.private/darknet_ros_msgs/lib 
+Requires: actionlib_msgs geometry_msgs sensor_msgs message_runtime std_msgs

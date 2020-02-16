@@ -1,0 +1,1 @@
+/home/ruthz/detection_ws/devel/.private/det_and_tracking/share/det_and_tracking/cmake/det_and_trackingConfig-version.cmake

@@ -1,0 +1,7 @@
+det_and_tracking
+/home/ruthz/detection_ws/devel/.private/det_and_tracking/cmake.lock /home/ruthz/detection_ws/devel/./cmake.lock
+/home/ruthz/detection_ws/devel/.private/det_and_tracking/lib/pkgconfig/det_and_tracking.pc /home/ruthz/detection_ws/devel/lib/pkgconfig/det_and_tracking.pc
+/home/ruthz/detection_ws/devel/.private/det_and_tracking/lib/det_and_tracking/boundingboxpoints /home/ruthz/detection_ws/devel/lib/det_and_tracking/boundingboxpoints
+/home/ruthz/detection_ws/devel/.private/det_and_tracking/lib/det_and_tracking/kalmanfilter /home/ruthz/detection_ws/devel/lib/det_and_tracking/kalmanfilter
+/home/ruthz/detection_ws/devel/.private/det_and_tracking/share/det_and_tracking/cmake/det_and_trackingConfig-version.cmake /home/ruthz/detection_ws/devel/share/det_and_tracking/cmake/det_and_trackingConfig-version.cmake
+/home/ruthz/detection_ws/devel/.private/det_and_tracking/share/det_and_tracking/cmake/det_and_trackingConfig.cmake /home/ruthz/detection_ws/devel/share/det_and_tracking/cmake/det_and_trackingConfig.cmake

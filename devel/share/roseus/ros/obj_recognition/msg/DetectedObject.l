@@ -1,0 +1,1 @@
+/home/ruthz/detection_ws/devel/.private/obj_recognition/share/roseus/ros/obj_recognition/msg/DetectedObject.l

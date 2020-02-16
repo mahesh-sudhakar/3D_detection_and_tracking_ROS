@@ -1,0 +1,1 @@
+/home/ruthz/detection_ws/devel/.private/obj_recognition/lib/python2.7/dist-packages/obj_recognition/srv/_GetNormals.py

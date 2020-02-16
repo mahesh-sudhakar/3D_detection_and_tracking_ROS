@@ -1,0 +1,1 @@
+/home/ruthz/detection_ws/devel/.private/objectmapping/share/objectmapping/cmake/objectmappingConfig.cmake

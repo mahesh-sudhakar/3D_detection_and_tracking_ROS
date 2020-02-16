@@ -1,0 +1,8 @@
+prefix=/home/ruthz/detection_ws/devel/.private/obj_recognition
+
+Name: obj_recognition
+Description: Description of obj_recognition
+Version: 0.0.0
+Cflags: -I/home/ruthz/detection_ws/devel/.private/obj_recognition/include
+Libs: -L/home/ruthz/detection_ws/devel/.private/obj_recognition/lib 
+Requires: message_runtime

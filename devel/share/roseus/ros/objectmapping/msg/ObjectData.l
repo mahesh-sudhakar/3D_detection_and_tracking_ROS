@@ -1,0 +1,1 @@
+/home/ruthz/detection_ws/devel/.private/objectmapping/share/roseus/ros/objectmapping/msg/ObjectData.l

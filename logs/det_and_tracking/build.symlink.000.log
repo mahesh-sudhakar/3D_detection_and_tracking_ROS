@@ -1,0 +1,5 @@
+Symlinking /home/ruthz/detection_ws/devel/lib/pkgconfig/det_and_tracking.pc
+Symlinking /home/ruthz/detection_ws/devel/lib/det_and_tracking/boundingboxpoints
+Symlinking /home/ruthz/detection_ws/devel/lib/det_and_tracking/kalmanfilter
+Symlinking /home/ruthz/detection_ws/devel/share/det_and_tracking/cmake/det_and_trackingConfig-version.cmake
+Symlinking /home/ruthz/detection_ws/devel/share/det_and_tracking/cmake/det_and_trackingConfig.cmake

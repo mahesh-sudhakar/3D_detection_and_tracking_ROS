@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -std=c++11   -shared -Wl,-soname,libgtest_main.so -o libgtest_main.so CMakeFiles/gtest_main.dir/src/gtest_main.cc.o  -L/home/ruthz/detection_ws/build/darknet_ros_msgs/gtest/gtest/src -lpthread libgtest.so -lpthread -Wl,-rpath,/home/ruthz/detection_ws/build/darknet_ros_msgs/gtest/gtest/src:/home/ruthz/detection_ws/build/darknet_ros_msgs/gtest/gtest 

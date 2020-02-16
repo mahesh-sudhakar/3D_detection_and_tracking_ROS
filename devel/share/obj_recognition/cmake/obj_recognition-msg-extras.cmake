@@ -1,0 +1,1 @@
+/home/ruthz/detection_ws/devel/.private/obj_recognition/share/obj_recognition/cmake/obj_recognition-msg-extras.cmake

@@ -1,0 +1,5 @@
+[  0%] Built target darknet_ros_msgs_generate_messages_cpp
+[  1%] [32m[1mLinking CXX shared library /home/ruthz/detection_ws/devel/.private/darknet_ros/lib/libdarknet_ros_lib.so[0m
+[ 97%] Built target darknet_ros_lib
+[ 98%] [32m[1mLinking CXX executable /home/ruthz/detection_ws/devel/.private/darknet_ros/lib/darknet_ros/darknet_ros[0m
+[100%] Built target darknet_ros

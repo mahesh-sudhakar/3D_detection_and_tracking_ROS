@@ -1,0 +1,11 @@
+[01m[K/home/ruthz/detection_ws/src/darknet_ros/darknet/src/gemm.c:[m[K In function ‘[01m[Ktime_gpu[m[K’:
+[01m[K/home/ruthz/detection_ws/src/darknet_ros/darknet/src/gemm.c:232:9:[m[K [01;35m[Kwarning: [m[K‘[01m[KcudaThreadSynchronize[m[K’ is deprecated [-Wdeprecated-declarations]
+         cudaThreadSynchronize();
+[01;32m[K         ^[m[K
+In file included from [01m[K/usr/local/cuda-10.1/include/cuda_runtime.h:96:0[m[K,
+                 from [01m[K/home/ruthz/detection_ws/src/darknet_ros/darknet/include/darknet.h:14[m[K,
+                 from [01m[K/home/ruthz/detection_ws/src/darknet_ros/darknet/src/utils.h:5[m[K,
+                 from [01m[K/home/ruthz/detection_ws/src/darknet_ros/darknet/src/gemm.c:2[m[K:
+[01m[K/usr/local/cuda-10.1/include/cuda_runtime_api.h:957:57:[m[K [01;36m[Knote: [m[Kdeclared here
+ extern __CUDA_DEPRECATED __host__ cudaError_t CUDARTAPI cudaThreadSynchronize(void);
+[01;32m[K                                                         ^[m[K

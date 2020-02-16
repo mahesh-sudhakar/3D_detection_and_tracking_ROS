@@ -1,0 +1,220 @@
+[35m[1mScanning dependencies of target _obj_recognition_generate_messages_check_deps_SegmentedClustersArray[0m
+[35m[1mScanning dependencies of target _obj_recognition_generate_messages_check_deps_DetectedObjectsArray[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target _obj_recognition_generate_messages_check_deps_DetectedObject[0m
+[35m[1mScanning dependencies of target _obj_recognition_generate_messages_check_deps_GetNormals[0m
+[35m[1mScanning dependencies of target obj_recognition_gencfg[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  3%] [34m[1mGenerating dynamic reconfigure files from config/Pcl.cfg: /home/ruthz/detection_ws/devel/.private/obj_recognition/include/obj_recognition/PclConfig.h /home/ruthz/detection_ws/devel/.private/obj_recognition/lib/python2.7/dist-packages/obj_recognition/cfg/PclConfig.py[0m
+[  3%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target nodelet_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  3%] Built target sensor_msgs_generate_messages_py
+[  3%] Built target nodelet_generate_messages_nodejs
+[  3%] Built target rosgraph_msgs_generate_messages_nodejs
+[  3%] Built target _obj_recognition_generate_messages_check_deps_DetectedObject
+[  3%] Built target _obj_recognition_generate_messages_check_deps_SegmentedClustersArray
+[  3%] Built target _obj_recognition_generate_messages_check_deps_GetNormals
+[  3%] Built target _obj_recognition_generate_messages_check_deps_DetectedObjectsArray
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target nodelet_generate_messages_py[0m
+[  3%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[  3%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[  3%] Built target nodelet_generate_messages_py
+[  3%] Built target std_msgs_generate_messages_cpp
+[  3%] Built target sensor_msgs_generate_messages_eus
+[  3%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[  3%] Built target geometry_msgs_generate_messages_cpp
+Generating reconfiguration files for Pcl in obj_recognition
+Wrote header file in /home/ruthz/detection_ws/devel/.private/obj_recognition/include/obj_recognition/PclConfig.h
+[35m[1mScanning dependencies of target nodelet_generate_messages_lisp[0m
+[  3%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target bond_generate_messages_py[0m
+[  3%] Built target actionlib_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_srvs_generate_messages_lisp[0m
+[  3%] Built target nodelet_generate_messages_lisp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[  3%] Built target geometry_msgs_generate_messages_py
+[  3%] Built target geometry_msgs_generate_messages_lisp
+[  3%] Built target bond_generate_messages_py
+[  3%] Built target std_srvs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_srvs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[35m[1mScanning dependencies of target bond_generate_messages_eus[0m
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_nodejs[0m
+[  3%] Built target tf2_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_cpp[0m
+[  3%] Built target roscpp_generate_messages_eus
+[  3%] Built target obj_recognition_gencfg
+[  3%] Built target bond_generate_messages_eus
+[  3%] Built target std_srvs_generate_messages_nodejs
+[  3%] Built target pcl_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  3%] Built target tf_generate_messages_lisp
+[  3%] Built target dynamic_reconfigure_generate_messages_cpp
+[35m[1mScanning dependencies of target std_srvs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target tf_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[  3%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target pcl_ros_gencfg[0m
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[  3%] Built target actionlib_msgs_generate_messages_cpp
+[  3%] Built target std_srvs_generate_messages_eus
+[  3%] Built target tf_generate_messages_cpp
+[  3%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target dynamic_reconfigure_gencfg[0m
+[  3%] Built target geometry_msgs_generate_messages_eus
+[  3%] Built target pcl_ros_gencfg
+[  3%] Built target tf2_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[  3%] Built target dynamic_reconfigure_gencfg
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_srvs_generate_messages_py[0m
+[35m[1mScanning dependencies of target tf_generate_messages_nodejs[0m
+[  3%] Built target rosgraph_msgs_generate_messages_cpp
+[  3%] Built target pcl_msgs_generate_messages_lisp
+[  3%] Built target dynamic_reconfigure_generate_messages_lisp
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_nodejs[0m
+[  3%] Built target pcl_msgs_generate_messages_eus
+[  3%] Built target roscpp_generate_messages_lisp
+[  3%] Built target tf_generate_messages_nodejs
+[  3%] Built target std_srvs_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target nodelet_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[  3%] Built target dynamic_reconfigure_generate_messages_nodejs
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_eus[0m
+[  3%] Built target rosgraph_msgs_generate_messages_eus
+[  3%] Built target nodelet_generate_messages_cpp
+[  3%] Built target rosgraph_msgs_generate_messages_py
+[  3%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target bond_generate_messages_nodejs[0m
+[  3%] Built target roscpp_generate_messages_nodejs
+[  3%] Built target actionlib_generate_messages_cpp
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target bond_generate_messages_cpp[0m
+[  3%] Built target dynamic_reconfigure_generate_messages_eus
+[35m[1mScanning dependencies of target bond_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target nodelet_generate_messages_eus[0m
+[  3%] Built target bond_generate_messages_nodejs
+[35m[1mScanning dependencies of target topic_tools_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target topic_tools_generate_messages_eus[0m
+[35m[1mScanning dependencies of target nodelet_topic_tools_gencfg[0m
+[  3%] Built target pcl_msgs_generate_messages_py
+[  3%] Built target bond_generate_messages_cpp
+[  3%] Built target bond_generate_messages_lisp
+[  3%] Built target nodelet_generate_messages_eus
+[35m[1mScanning dependencies of target pcl_msgs_generate_messages_cpp[0m
+[  3%] Built target topic_tools_generate_messages_cpp
+[  3%] Built target topic_tools_generate_messages_eus
+[35m[1mScanning dependencies of target std_srvs_generate_messages_cpp[0m
+[  3%] Built target nodelet_topic_tools_gencfg
+[35m[1mScanning dependencies of target obj_recognition_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target topic_tools_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target topic_tools_generate_messages_nodejs[0m
+[  3%] Built target pcl_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target topic_tools_generate_messages_py[0m
+[  3%] Built target std_srvs_generate_messages_cpp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[  6%] [34m[1mGenerating Javascript code from obj_recognition/DetectedObject.msg[0m
+[  6%] Built target topic_tools_generate_messages_lisp
+[  6%] Built target topic_tools_generate_messages_nodejs
+[  9%] [34m[1mGenerating Javascript code from obj_recognition/SegmentedClustersArray.msg[0m
+[35m[1mScanning dependencies of target tf_generate_messages_eus[0m
+[  9%] Built target topic_tools_generate_messages_py
+[  9%] Built target tf2_msgs_generate_messages_py
+[  9%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  9%] Built target tf_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[  9%] Built target tf_generate_messages_py
+[  9%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_py[0m
+[  9%] Built target actionlib_generate_messages_eus
+[  9%] Built target actionlib_generate_messages_lisp
+[ 12%] [34m[1mGenerating Javascript code from obj_recognition/DetectedObjectsArray.msg[0m
+[ 12%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[ 12%] Built target dynamic_reconfigure_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[ 15%] [34m[1mGenerating Javascript code from obj_recognition/GetNormals.srv[0m
+[ 15%] Built target actionlib_generate_messages_py
+[ 15%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[ 15%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target obj_recognition_generate_messages_eus[0m
+[35m[1mScanning dependencies of target obj_recognition_generate_messages_py[0m
+[35m[1mScanning dependencies of target obj_recognition_generate_messages_lisp[0m
+[ 15%] Built target tf2_msgs_generate_messages_lisp
+[ 15%] Built target tf2_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target obj_recognition_generate_messages_cpp[0m
+[ 18%] [34m[1mGenerating EusLisp code from obj_recognition/DetectedObject.msg[0m
+[ 21%] [34m[1mGenerating EusLisp code from obj_recognition/SegmentedClustersArray.msg[0m
+[ 25%] [34m[1mGenerating EusLisp code from obj_recognition/DetectedObjectsArray.msg[0m
+[ 28%] [34m[1mGenerating Lisp code from obj_recognition/DetectedObject.msg[0m
+[ 31%] [34m[1mGenerating Python from MSG obj_recognition/DetectedObject[0m
+[ 34%] [34m[1mGenerating C++ code from obj_recognition/DetectedObject.msg[0m
+[ 37%] [34m[1mGenerating C++ code from obj_recognition/SegmentedClustersArray.msg[0m
+[ 37%] Built target obj_recognition_generate_messages_nodejs
+[ 40%] [34m[1mGenerating Python from MSG obj_recognition/SegmentedClustersArray[0m
+[ 43%] [34m[1mGenerating Lisp code from obj_recognition/SegmentedClustersArray.msg[0m
+[ 46%] [34m[1mGenerating Lisp code from obj_recognition/DetectedObjectsArray.msg[0m
+[ 50%] [34m[1mGenerating Lisp code from obj_recognition/GetNormals.srv[0m
+[ 53%] [34m[1mGenerating EusLisp code from obj_recognition/GetNormals.srv[0m
+[ 56%] [34m[1mGenerating EusLisp manifest code for obj_recognition[0m
+[ 59%] [34m[1mGenerating C++ code from obj_recognition/DetectedObjectsArray.msg[0m
+[ 62%] [34m[1mGenerating C++ code from obj_recognition/GetNormals.srv[0m
+[ 62%] Built target obj_recognition_generate_messages_lisp
+[ 65%] [34m[1mGenerating Python from MSG obj_recognition/DetectedObjectsArray[0m
+[ 68%] [34m[1mGenerating Python code from SRV obj_recognition/GetNormals[0m
+[ 71%] [34m[1mGenerating Python msg __init__.py for obj_recognition[0m
+[ 75%] [34m[1mGenerating Python srv __init__.py for obj_recognition[0m
+[ 75%] Built target obj_recognition_generate_messages_py
+[ 75%] Built target obj_recognition_generate_messages_cpp
+[ 75%] Built target obj_recognition_generate_messages_eus
+[35m[1mScanning dependencies of target obj_recognition_generate_messages[0m
+[35m[1mScanning dependencies of target obj_recognition_feature_extractor[0m
+[35m[1mScanning dependencies of target obj_recognition_segmentation[0m
+[35m[1mScanning dependencies of target obj_recognition_filtering[0m
+[35m[1mScanning dependencies of target obj_recognition_cloud_transformer[0m
+[ 75%] Built target obj_recognition_generate_messages
+[ 78%] [32mBuilding CXX object CMakeFiles/obj_recognition_feature_extractor.dir/src/feature_extractor.cpp.o[0m
+[ 81%] [32mBuilding CXX object CMakeFiles/obj_recognition_segmentation.dir/src/segmentation.cpp.o[0m
+[ 84%] [32mBuilding CXX object CMakeFiles/obj_recognition_filtering.dir/src/filtering.cpp.o[0m
+[ 87%] [32mBuilding CXX object CMakeFiles/obj_recognition_cloud_transformer.dir/src/cloud_transformer.cpp.o[0m
+[ 90%] [32m[1mLinking CXX executable /home/ruthz/detection_ws/devel/.private/obj_recognition/lib/obj_recognition/obj_recognition_cloud_transformer[0m
+[ 90%] Built target obj_recognition_cloud_transformer
+[ 93%] [32m[1mLinking CXX executable /home/ruthz/detection_ws/devel/.private/obj_recognition/lib/obj_recognition/obj_recognition_feature_extractor[0m
+[ 96%] [32m[1mLinking CXX executable /home/ruthz/detection_ws/devel/.private/obj_recognition/lib/obj_recognition/obj_recognition_segmentation[0m
+[100%] [32m[1mLinking CXX executable /home/ruthz/detection_ws/devel/.private/obj_recognition/lib/obj_recognition/obj_recognition_filtering[0m
+[100%] Built target obj_recognition_segmentation
+[100%] Built target obj_recognition_filtering
+[100%] Built target obj_recognition_feature_extractor

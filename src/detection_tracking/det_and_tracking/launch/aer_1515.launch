@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<launch>
+
+  <!-- run bag file -->
+  <arg name="path" default="/home/ruthz/pepper_robot/new_data/" />
+  <arg name="bag_file" default="bag1_new" />
+  <rosparam>use_sim_time: true</rosparam>
+	
+  <!--<node pkg="rosbag" type="play" name="player" output="screen" args="clock loop  $(arg path)$(arg bag_file).bag"/> -->
+
+ 
+  <!-- run yolo -->
+  <include file="$(find darknet_ros)/launch/darknet_ros.launch"/>
+ 
+  
+  <!-- segments depth image using 2d bounding box-->
+  <node pkg="det_and_tracking" type="boundingboxpoints" name="yolo_depth_segmentation"/>
+
+ <node pkg="obj_recognition" type="obj_recognition_filtering" name="obj_recognition_filtering"/> 
+  <param name="cluster_tolerance" value="0.03"/>
+<param name="min_cluster_size" value="800"/>
+<param name="max_cluster_size" value="6500"/>
+
+  <!-- Register point clouds -->
+  <include file="$(find extrinsic_calibration)/launch/register_depth.launch">
+  </include>
+
+<param name="prediction_noise" value="5"/>
+<param name="observation_noise" value="0.5"/>
+<param name="velocity_noise" value="50"/>
+
+<node pkg="det_and_tracking" type="kalmanfilter" name="kalmanfilter"/>
+<node pkg="rviz" type="rviz" name="visualization"/>
+</launch>

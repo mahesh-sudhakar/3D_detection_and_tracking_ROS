@@ -1,0 +1,6 @@
+add_subdirectory(darknet_ros)
+add_subdirectory(det_and_tracking)
+add_subdirectory(extrinsic_calibration)
+add_subdirectory(obj_recognition)
+add_subdirectory(image_pipeline)
+

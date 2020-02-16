@@ -1,0 +1,55 @@
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target _objectmapping_generate_messages_check_deps_ObjectData[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target _objectmapping_generate_messages_check_deps_ObjectData
+[35m[1mScanning dependencies of target objectmapping_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target objectmapping_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target objectmapping_generate_messages_eus[0m
+[35m[1mScanning dependencies of target objectmapping_generate_messages_py[0m
+[35m[1mScanning dependencies of target objectmapping_generate_messages_lisp[0m
+[ 11%] [34m[1mGenerating Javascript code from objectmapping/ObjectData.msg[0m
+[ 22%] [34m[1mGenerating C++ code from objectmapping/ObjectData.msg[0m
+[ 33%] [34m[1mGenerating EusLisp code from objectmapping/ObjectData.msg[0m
+[ 44%] [34m[1mGenerating EusLisp manifest code for objectmapping[0m
+[ 55%] [34m[1mGenerating Python from MSG objectmapping/ObjectData[0m
+[ 66%] [34m[1mGenerating Lisp code from objectmapping/ObjectData.msg[0m
+[ 66%] Built target objectmapping_generate_messages_nodejs
+[ 66%] Built target objectmapping_generate_messages_lisp
+[ 77%] [34m[1mGenerating Python msg __init__.py for objectmapping[0m
+[ 77%] Built target objectmapping_generate_messages_cpp
+[35m[1mScanning dependencies of target bag_parser[0m
+[ 88%] [32mBuilding CXX object CMakeFiles/bag_parser.dir/src/rosbagparse.cpp.o[0m
+[ 88%] Built target objectmapping_generate_messages_py
+[ 88%] Built target objectmapping_generate_messages_eus
+[35m[1mScanning dependencies of target objectmapping_generate_messages[0m
+[ 88%] Built target objectmapping_generate_messages
+[100%] [32m[1mLinking CXX executable /home/ruthz/detection_ws/devel/.private/objectmapping/lib/objectmapping/bag_parser[0m
+[100%] Built target bag_parser

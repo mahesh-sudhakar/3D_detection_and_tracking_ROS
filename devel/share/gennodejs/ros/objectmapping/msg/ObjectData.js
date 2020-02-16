@@ -1,0 +1,1 @@
+/home/ruthz/detection_ws/devel/.private/objectmapping/share/gennodejs/ros/objectmapping/msg/ObjectData.js

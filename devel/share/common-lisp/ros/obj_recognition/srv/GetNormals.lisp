@@ -1,0 +1,1 @@
+/home/ruthz/detection_ws/devel/.private/obj_recognition/share/common-lisp/ros/obj_recognition/srv/GetNormals.lisp

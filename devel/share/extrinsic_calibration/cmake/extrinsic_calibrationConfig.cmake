@@ -1,0 +1,1 @@
+/home/ruthz/detection_ws/devel/.private/extrinsic_calibration/share/extrinsic_calibration/cmake/extrinsic_calibrationConfig.cmake

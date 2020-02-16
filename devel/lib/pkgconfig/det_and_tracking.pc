@@ -1,0 +1,1 @@
+/home/ruthz/detection_ws/devel/.private/det_and_tracking/lib/pkgconfig/det_and_tracking.pc

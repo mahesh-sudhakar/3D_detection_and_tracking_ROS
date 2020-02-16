@@ -1,0 +1,1 @@
+/home/ruthz/detection_ws/devel/.private/obj_recognition/share/gennodejs/ros/obj_recognition/_index.js

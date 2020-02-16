@@ -1,0 +1,30 @@
+[33m[1mCMake Warning[0m at /opt/ros/kinetic/share/catkin/cmake/catkinConfig.cmake:76 (find_package):
+  Could not find a package configuration file provided by "darknet_ros_msgs"
+  with any of the following names:
+
+    darknet_ros_msgsConfig.cmake
+    darknet_ros_msgs-config.cmake
+
+  Add the installation prefix of "darknet_ros_msgs" to CMAKE_PREFIX_PATH or
+  set "darknet_ros_msgs_DIR" to a directory containing one of the above
+  files.  If "darknet_ros_msgs" provides a separate development package or
+  SDK, be sure it has been installed.
+[36mCall Stack (most recent call first):[0m
+  CMakeLists.txt:10 (find_package)
+
+
+[31m[1mCMake Error[0m at /opt/ros/kinetic/share/catkin/cmake/catkinConfig.cmake:83 (find_package):
+  Could not find a package configuration file provided by "darknet_ros_msgs"
+  with any of the following names:
+
+    darknet_ros_msgsConfig.cmake
+    darknet_ros_msgs-config.cmake
+
+  Add the installation prefix of "darknet_ros_msgs" to CMAKE_PREFIX_PATH or
+  set "darknet_ros_msgs_DIR" to a directory containing one of the above
+  files.  If "darknet_ros_msgs" provides a separate development package or
+  SDK, be sure it has been installed.
+[36mCall Stack (most recent call first):[0m
+  CMakeLists.txt:10 (find_package)
+
+

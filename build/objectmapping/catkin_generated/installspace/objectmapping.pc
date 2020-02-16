@@ -1,0 +1,8 @@
+prefix=/home/ruthz/detection_ws/install
+
+Name: objectmapping
+Description: Description of objectmapping
+Version: 0.0.0
+Cflags: -I/home/ruthz/detection_ws/install/include
+Libs: -L/home/ruthz/detection_ws/install/lib 
+Requires: message_runtime

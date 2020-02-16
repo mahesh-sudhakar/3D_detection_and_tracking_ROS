@@ -1,0 +1,1 @@
+/home/ruthz/detection_ws/devel/.private/extrinsic_calibration/lib/pkgconfig/extrinsic_calibration.pc

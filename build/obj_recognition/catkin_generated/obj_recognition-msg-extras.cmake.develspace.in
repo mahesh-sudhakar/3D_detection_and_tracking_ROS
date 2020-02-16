@@ -1,0 +1,2 @@
+set(obj_recognition_MESSAGE_FILES "/home/ruthz/detection_ws/src/PCL-ROS-cluster-Segmentation/msg/DetectedObjectsArray.msg;/home/ruthz/detection_ws/src/PCL-ROS-cluster-Segmentation/msg/DetectedObject.msg;/home/ruthz/detection_ws/src/PCL-ROS-cluster-Segmentation/msg/SegmentedClustersArray.msg")
+set(obj_recognition_SERVICE_FILES "/home/ruthz/detection_ws/src/PCL-ROS-cluster-Segmentation/srv/GetNormals.srv")

@@ -1,0 +1,23 @@
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target _objectmapping_generate_messages_check_deps_ObjectData
+[ 11%] Built target objectmapping_generate_messages_nodejs
+[ 22%] Built target objectmapping_generate_messages_cpp
+[ 33%] Built target objectmapping_generate_messages_lisp
+[ 55%] Built target objectmapping_generate_messages_py
+[ 77%] Built target objectmapping_generate_messages_eus
+[ 77%] Built target objectmapping_generate_messages
+[100%] Built target bag_parser

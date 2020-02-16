@@ -1,0 +1,6 @@
+[35m[1mScanning dependencies of target extrinsic_calibration[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/extrinsic_calibration.dir/src/main.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/extrinsic_calibration.dir/src/calibrator.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/extrinsic_calibration.dir/src/pose_estimation.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/ruthz/detection_ws/devel/.private/extrinsic_calibration/lib/extrinsic_calibration/extrinsic_calibration[0m
+[100%] Built target extrinsic_calibration

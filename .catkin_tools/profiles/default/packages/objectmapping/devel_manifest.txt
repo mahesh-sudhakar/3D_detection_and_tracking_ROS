@@ -1,0 +1,21 @@
+objectmapping
+/home/ruthz/detection_ws/devel/.private/objectmapping/cmake.lock /home/ruthz/detection_ws/devel/./cmake.lock
+/home/ruthz/detection_ws/devel/.private/objectmapping/include/objectmapping/ObjectData.h /home/ruthz/detection_ws/devel/include/objectmapping/ObjectData.h
+/home/ruthz/detection_ws/devel/.private/objectmapping/lib/python2.7/dist-packages/objectmapping/__init__.py /home/ruthz/detection_ws/devel/lib/python2.7/dist-packages/objectmapping/__init__.py
+/home/ruthz/detection_ws/devel/.private/objectmapping/lib/python2.7/dist-packages/objectmapping/msg/__init__.py /home/ruthz/detection_ws/devel/lib/python2.7/dist-packages/objectmapping/msg/__init__.py
+/home/ruthz/detection_ws/devel/.private/objectmapping/lib/python2.7/dist-packages/objectmapping/msg/_ObjectData.py /home/ruthz/detection_ws/devel/lib/python2.7/dist-packages/objectmapping/msg/_ObjectData.py
+/home/ruthz/detection_ws/devel/.private/objectmapping/lib/pkgconfig/objectmapping.pc /home/ruthz/detection_ws/devel/lib/pkgconfig/objectmapping.pc
+/home/ruthz/detection_ws/devel/.private/objectmapping/lib/objectmapping/bag_parser /home/ruthz/detection_ws/devel/lib/objectmapping/bag_parser
+/home/ruthz/detection_ws/devel/.private/objectmapping/share/roseus/ros/objectmapping/manifest.l /home/ruthz/detection_ws/devel/share/roseus/ros/objectmapping/manifest.l
+/home/ruthz/detection_ws/devel/.private/objectmapping/share/roseus/ros/objectmapping/msg/ObjectData.l /home/ruthz/detection_ws/devel/share/roseus/ros/objectmapping/msg/ObjectData.l
+/home/ruthz/detection_ws/devel/.private/objectmapping/share/gennodejs/ros/objectmapping/_index.js /home/ruthz/detection_ws/devel/share/gennodejs/ros/objectmapping/_index.js
+/home/ruthz/detection_ws/devel/.private/objectmapping/share/gennodejs/ros/objectmapping/msg/_index.js /home/ruthz/detection_ws/devel/share/gennodejs/ros/objectmapping/msg/_index.js
+/home/ruthz/detection_ws/devel/.private/objectmapping/share/gennodejs/ros/objectmapping/msg/ObjectData.js /home/ruthz/detection_ws/devel/share/gennodejs/ros/objectmapping/msg/ObjectData.js
+/home/ruthz/detection_ws/devel/.private/objectmapping/share/objectmapping/cmake/objectmappingConfig-version.cmake /home/ruthz/detection_ws/devel/share/objectmapping/cmake/objectmappingConfig-version.cmake
+/home/ruthz/detection_ws/devel/.private/objectmapping/share/objectmapping/cmake/objectmapping-msg-extras.cmake /home/ruthz/detection_ws/devel/share/objectmapping/cmake/objectmapping-msg-extras.cmake
+/home/ruthz/detection_ws/devel/.private/objectmapping/share/objectmapping/cmake/objectmappingConfig.cmake /home/ruthz/detection_ws/devel/share/objectmapping/cmake/objectmappingConfig.cmake
+/home/ruthz/detection_ws/devel/.private/objectmapping/share/objectmapping/cmake/objectmapping-msg-paths.cmake /home/ruthz/detection_ws/devel/share/objectmapping/cmake/objectmapping-msg-paths.cmake
+/home/ruthz/detection_ws/devel/.private/objectmapping/share/common-lisp/ros/objectmapping/msg/ObjectData.lisp /home/ruthz/detection_ws/devel/share/common-lisp/ros/objectmapping/msg/ObjectData.lisp
+/home/ruthz/detection_ws/devel/.private/objectmapping/share/common-lisp/ros/objectmapping/msg/objectmapping-msg.asd /home/ruthz/detection_ws/devel/share/common-lisp/ros/objectmapping/msg/objectmapping-msg.asd
+/home/ruthz/detection_ws/devel/.private/objectmapping/share/common-lisp/ros/objectmapping/msg/_package.lisp /home/ruthz/detection_ws/devel/share/common-lisp/ros/objectmapping/msg/_package.lisp
+/home/ruthz/detection_ws/devel/.private/objectmapping/share/common-lisp/ros/objectmapping/msg/_package_ObjectData.lisp /home/ruthz/detection_ws/devel/share/common-lisp/ros/objectmapping/msg/_package_ObjectData.lisp
